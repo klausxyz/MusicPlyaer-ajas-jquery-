@@ -11,8 +11,9 @@ https://www.bilibili.com/video/BV17W41137jn?t=41&p=94
 2. 拖动进度条在网页的任何位置松开鼠标都算有效
 3. 完成主菜单的删除功能和清空列表功能
 4. 初始化列表后，首页会出现两份相同的音乐表单
-5. 在右上角设置中添加下拉菜单（播放倍数）
 ![image](https://user-images.githubusercontent.com/59046824/126970650-f634cd62-ffbb-484d-b6e3-f1c1dffdc56e.png)
+5. 在右上角设置中添加下拉菜单（播放倍数）
+
 
 #### 长期目的：
 1. 实现从mysql数据库中获取歌曲信息（ajax）
